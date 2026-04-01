@@ -1,1 +1,10 @@
-// .gitignore content here
+# Android Studio and Gradle files
+.gradle/
+build/
+app/build/
+.idea/
+*.iml
+*.hprof
+*.log
+*.lock
+.DS_Store
